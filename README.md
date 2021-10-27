@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 Skills: JS / HTML / CSS / REACT
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
