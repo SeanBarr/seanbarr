@@ -13,12 +13,19 @@ SeanBarr/SeanBarr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Skills: JS / HTML / CSS / REACT
-
-
-
-
-
+Skills: JS / HTML / CSS / REACT 
+<i class="devicon-css3-plain"></i>
+<i class="devicon-bootstrap-plain-wordmark"></i>
+<i class="devicon-github-original-wordmark"></i>
+<i class="devicon-html5-plain-wordmark"></i>
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-jest-plain"></i>
+<i class="devicon-jquery-plain-wordmark"></i>
+<i class="devicon-linkedin-plain-wordmark colored"></i>
+<i class="devicon-nodejs-plain-wordmark"></i>
+<i class="devicon-npm-original-wordmark"></i>
+<i class="devicon-react-original-wordmark"></i>
+<i class="devicon-vscode-plain-wordmark"></i>
 
 
 
