@@ -13,19 +13,20 @@ SeanBarr/SeanBarr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Skills: JS / HTML / CSS / REACT 
-<i class="devicon-css3-plain"></i>
-<i class="devicon-bootstrap-plain-wordmark"></i>
-<i class="devicon-github-original-wordmark"></i>
-<i class="devicon-html5-plain-wordmark"></i>
-<i class="devicon-javascript-plain"></i>
-<i class="devicon-jest-plain"></i>
-<i class="devicon-jquery-plain-wordmark"></i>
-<i class="devicon-linkedin-plain-wordmark colored"></i>
-<i class="devicon-nodejs-plain-wordmark"></i>
-<i class="devicon-npm-original-wordmark"></i>
-<i class="devicon-react-original-wordmark"></i>
-<i class="devicon-vscode-plain-wordmark"></i>
+Skills:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="100"/>
+
 
 
 
