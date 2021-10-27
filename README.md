@@ -7,7 +7,7 @@
 - 📫 How to reach me is on my github webpage......
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanBarr&theme=dark&show_icons=true)
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <!---
 SeanBarr/SeanBarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
