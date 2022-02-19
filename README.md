@@ -1,5 +1,5 @@
 # Welcome to Sean Barr's GitHub. 
-##  I am currently enrolled in MIT's Emeritus Professional Full Stack MERN Certification Program.
+##  *I am currently enrolled in MIT's Emeritus Professional Full Stack MERN Certification Program.*
 #### [x] I am interested in working in Full Stack Development
 #### [x] I’m looking to contribute to more Open Source Projects
 ---
