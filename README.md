@@ -1,10 +1,11 @@
-#Welcome to Sean Barr's GitHub. 
-## *I am currently enrolled in MIT's Professional MERN Full Stack Certification.*
-**I am interested in working in Full Stack Development**
-> I’m looking to contribute to more Open Source Projects
+# Welcome to Sean Barr's GitHub. 
+##  I am currently enrolled in MIT's Professional MERN Full Stack Certification.
+#### [x] I am interested in working in Full Stack Development
+#### [x] I’m looking to contribute to more Open Source Projects
 ---
-- 📫 How to reach me is on my github websites's contact page. 
-- [Sean Barr's GitHub] (https://seanbarr.github.io "Github")
+  📫 Please feel free to reach me through my github webpage.
+  ---
+ | **website | (https://seanbarr.github.io/contact.html)**  |
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanBarr&theme=dark&show_icons=true)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
