@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Sean
-#### I am Full Stack MERN Developer
+#### I am currently enrolled in MIT's Professional MERN Full Stack Certification.
 - 👋 Hi, I’m @SeanBarr
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning the MERN stack and working toward earning my Professional Coding Certificate. 
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to contribute to more Open Source Projects
 - 📫 How to reach me is on my github webpage......
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanBarr&theme=dark&show_icons=true)
