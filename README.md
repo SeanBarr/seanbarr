@@ -1,18 +1,14 @@
-### Hi there 👋, my name is Sean
-#### I am currently enrolled in MIT's Professional MERN Full Stack Certification.
-- 👋 Hi, I’m @SeanBarr
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning the MERN stack and working toward earning my Professional Coding Certificate. 
-- 💞️ I’m looking to contribute to more Open Source Projects
-- 📫 How to reach me is on my github webpage......
+#Welcome to Sean Barr's GitHub. 
+## *I am currently enrolled in MIT's Professional MERN Full Stack Certification.*
+**I am interested in working in Full Stack Development**
+> I’m looking to contribute to more Open Source Projects
+---
+- 📫 How to reach me is on my github websites's contact page. 
+- [Sean Barr's GitHub] (https://seanbarr.github.io "Github")
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanBarr&theme=dark&show_icons=true)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<!---
-SeanBarr/SeanBarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+---
 Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="100"/>
