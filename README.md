@@ -5,7 +5,7 @@
 ---
   📫 Please feel free to reach me through my github webpage.
   ---
- | **website | (https://seanbarr.github.io/contact)**  |
+ | **website | (https://seanbarr.github.io)**  |
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanBarr&theme=dark&show_icons=true)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
